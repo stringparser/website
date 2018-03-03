@@ -1,0 +1,26 @@
+{
+  "name": "stringparser.github.io",
+  "main": "index.js",
+  "author": "Javier Carrillo Milla",
+  "private": true,
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "description": "my website",
+  "repository": "git@github.com:stringparser/blog.git",
+  "dependencies": {
+    "next": "^5.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "typescript": "^2.7.2"
+  },
+  "devDependencies": {
+    "tslint": "^5.9.1",
+    "@types/next": "^2.4.8",
+    "tslint-react": "^3.5.1",
+    "tslint-config-airbnb": "^5.7.0",
+    "@zeit/next-typescript": "^0.0.10"
+  }
+}
